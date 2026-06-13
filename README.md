@@ -65,9 +65,9 @@ You will see a prompt (`>`) where you can type commands:
 **Example session:**
 
 ```
-> add Alice sent 100 tokens to Bob
+> add X sent 100 tokens to Y
 Block #1 added → hash: 3a9f1c2b...
-> add Bob sent 50 tokens to Carol
+> add Y sent 50 tokens to Z
 Block #2 added → hash: 7e4d8a11...
 > display
 > validate
